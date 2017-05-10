@@ -38,7 +38,7 @@
 	Copyright = '(c) 2016 University of Minnesota. All rights reserved.'
 
 	# Description of the functionality provided by this module
-	# Description = ''
+	Description = 'Powershell Wrapper for Hipchat API'
 
 	# Minimum version of the Windows PowerShell engine required by this module
 	# PowerShellVersion = ''
